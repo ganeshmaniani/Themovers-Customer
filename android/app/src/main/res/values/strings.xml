@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource>
+    <string name='facebook_app_id'>1428838441384861</string>
+    <string name='fb_login_protocol_schema'>fb1428838441384861</string>
+    <string name='facebook_client_token'>65d10bf23b333236475b4361a2d963d1</string>
+    <string name='app_name'>The Movers Online</string>
+</resource>
